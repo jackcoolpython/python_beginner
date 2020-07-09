@@ -8,3 +8,9 @@
   
   
   2, Functions
+  
+  3, Guide for python improvement
+  
+   * code review;
+   * Tooling:  Pycharm/ Spyder;
+   * Target
