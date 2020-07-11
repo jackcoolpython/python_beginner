@@ -6,4 +6,7 @@ Error was found on beautifulSoup list find_all('li')
 
 https://blog.csdn.net/qq_40691970/article/details/100826851
 
-![] image 
+
+![alt text](http://url/to/img.png)
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
