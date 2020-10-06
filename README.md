@@ -14,3 +14,7 @@
    * code review;
    * Tooling:  Pycharm/ Spyder;
    * Target
+   * set up new project;
+   
+   
+   4,
